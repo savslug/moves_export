@@ -1,0 +1,112 @@
+[ {
+  "date" : "20160617",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 1338.0,
+    "distance" : 1316.0,
+    "steps" : 1802,
+    "calories" : 73
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 670.0,
+    "distance" : 2402.0,
+    "calories" : 61
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20160616T084927+0900",
+    "endTime" : "20160617T083634+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160617T031934+0900",
+      "endTime" : "20160617T031947+0900",
+      "duration" : 13.0,
+      "distance" : 9.0,
+      "steps" : 18,
+      "calories" : 1
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160617T083400+0900",
+      "endTime" : "20160617T084855+0900",
+      "duration" : 895.0,
+      "distance" : 900.0,
+      "steps" : 1200,
+      "calories" : 50
+    } ],
+    "lastUpdate" : "20160616T234930Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20160617T083634+0900",
+    "endTime" : "20160617T084223+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20160617T083634+0900",
+      "endTime" : "20160617T084222+0900",
+      "duration" : 348.0,
+      "distance" : 1335.0,
+      "calories" : 34
+    } ],
+    "lastUpdate" : "20160616T234930Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20160617T084223+0900",
+    "endTime" : "20160617T120156+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160617T084236+0900",
+      "endTime" : "20160617T084406+0900",
+      "duration" : 90.0,
+      "distance" : 60.0,
+      "steps" : 121,
+      "calories" : 3
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160617T120127+0900",
+      "endTime" : "20160617T120141+0900",
+      "duration" : 14.0,
+      "distance" : 9.0,
+      "steps" : 19,
+      "calories" : 1
+    } ],
+    "lastUpdate" : "20160617T042449Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20160617T120156+0900",
+    "endTime" : "20160617T121245+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160617T120156+0900",
+      "endTime" : "20160617T120722+0900",
+      "duration" : 326.0,
+      "distance" : 338.0,
+      "steps" : 444,
+      "calories" : 19
+    }, {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20160617T120723+0900",
+      "endTime" : "20160617T121245+0900",
+      "duration" : 322.0,
+      "distance" : 1067.0,
+      "calories" : 27
+    } ],
+    "lastUpdate" : "20160617T042449Z"
+  } ],
+  "caloriesIdle" : 1601,
+  "lastUpdate" : "20160617T042449Z"
+} ]

@@ -1,0 +1,61 @@
+[ {
+  "date" : "20151228",
+  "summary" : [ {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 1000.0,
+    "distance" : 4979.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20151227T210107+0900",
+    "endTime" : "20151228T023058+0900",
+    "place" : {
+      "id" : 235096341,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 35.695477,
+        "lon" : 139.76818
+      }
+    },
+    "lastUpdate" : "20151229T142250Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20151228T023058+0900",
+    "endTime" : "20151228T024737+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20151228T023058+0900",
+      "endTime" : "20151228T024738+0900",
+      "duration" : 1000.0,
+      "distance" : 4979.0,
+      "trackPoints" : [ {
+        "lat" : 35.695477,
+        "lon" : 139.76818,
+        "time" : "20151228T023058+0900"
+      }, {
+        "lat" : 35.716781,
+        "lon" : 139.72804,
+        "time" : "20151228T024738+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20151229T142250Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20151228T024738+0900",
+    "endTime" : "20151228T071048+0900",
+    "place" : {
+      "id" : 105416472,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 35.7167813087,
+        "lon" : 139.7280424577
+      }
+    },
+    "lastUpdate" : "20151229T142250Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20151229T142250Z"
+} ]

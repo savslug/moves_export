@@ -1,0 +1,268 @@
+[ {
+  "date" : "20161009",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 146.0,
+    "distance" : 100.0,
+    "steps" : 201,
+    "calories" : 6
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 334.0,
+    "distance" : 1440.0,
+    "calories" : 36
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 169.0,
+    "distance" : 791.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20161008T234129+0900",
+    "endTime" : "20161009T011712+0900",
+    "place" : {
+      "id" : 257772906,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.077956,
+        "lon" : 141.35354
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161009T011459+0900",
+      "endTime" : "20161009T011533+0900",
+      "duration" : 34.0,
+      "distance" : 23.0,
+      "steps" : 46,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20161008T174232Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20161009T011712+0900",
+    "endTime" : "20161009T012246+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20161009T011712+0900",
+      "endTime" : "20161009T012246+0900",
+      "duration" : 334.0,
+      "distance" : 1440.0,
+      "calories" : 36,
+      "trackPoints" : [ {
+        "lat" : 43.077956,
+        "lon" : 141.35354,
+        "time" : "20161009T011712+0900"
+      }, {
+        "lat" : 43.07776,
+        "lon" : 141.35195,
+        "time" : "20161009T011730+0900"
+      }, {
+        "lat" : 43.077553,
+        "lon" : 141.35113,
+        "time" : "20161009T011748+0900"
+      }, {
+        "lat" : 43.077496,
+        "lon" : 141.35046,
+        "time" : "20161009T011804+0900"
+      }, {
+        "lat" : 43.077859,
+        "lon" : 141.34946,
+        "time" : "20161009T011824+0900"
+      }, {
+        "lat" : 43.078389,
+        "lon" : 141.34888,
+        "time" : "20161009T011852+0900"
+      }, {
+        "lat" : 43.078338,
+        "lon" : 141.34807,
+        "time" : "20161009T011918+0900"
+      }, {
+        "lat" : 43.078993,
+        "lon" : 141.34728,
+        "time" : "20161009T011945+0900"
+      }, {
+        "lat" : 43.079647,
+        "lon" : 141.3472,
+        "time" : "20161009T012003+0900"
+      }, {
+        "lat" : 43.081279,
+        "lon" : 141.34663,
+        "time" : "20161009T012044+0900"
+      }, {
+        "lat" : 43.081488,
+        "lon" : 141.34588,
+        "time" : "20161009T012110+0900"
+      }, {
+        "lat" : 43.081611,
+        "lon" : 141.34524,
+        "time" : "20161009T012129+0900"
+      }, {
+        "lat" : 43.082288,
+        "lon" : 141.34487,
+        "time" : "20161009T012150+0900"
+      }, {
+        "lat" : 43.08379,
+        "lon" : 141.34458,
+        "time" : "20161009T012225+0900"
+      }, {
+        "lat" : 43.084886,
+        "lon" : 141.3453,
+        "time" : "20161009T012246+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20161008T174232Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20161009T012246+0900",
+    "endTime" : "20161009T202008+0900",
+    "place" : {
+      "id" : 257240275,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.084886,
+        "lon" : 141.3453
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161009T012246+0900",
+      "endTime" : "20161009T012335+0900",
+      "duration" : 49.0,
+      "distance" : 33.0,
+      "steps" : 66,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161009T062939+0900",
+      "endTime" : "20161009T062954+0900",
+      "duration" : 15.0,
+      "distance" : 10.0,
+      "steps" : 20,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161009T201912+0900",
+      "endTime" : "20161009T201945+0900",
+      "duration" : 33.0,
+      "distance" : 24.0,
+      "steps" : 48,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20161009T121848Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20161009T202008+0900",
+    "endTime" : "20161009T202159+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20161009T202008+0900",
+      "endTime" : "20161009T202159+0900",
+      "duration" : 111.0,
+      "distance" : 413.0,
+      "trackPoints" : [ {
+        "lat" : 43.084886,
+        "lon" : 141.3453,
+        "time" : "20161009T202008+0900"
+      }, {
+        "lat" : 43.084253,
+        "lon" : 141.34517,
+        "time" : "20161009T202027+0900"
+      }, {
+        "lat" : 43.084307,
+        "lon" : 141.3457,
+        "time" : "20161009T202044+0900"
+      }, {
+        "lat" : 43.083667,
+        "lon" : 141.34622,
+        "time" : "20161009T202105+0900"
+      }, {
+        "lat" : 43.082758,
+        "lon" : 141.34637,
+        "time" : "20161009T202128+0900"
+      }, {
+        "lat" : 43.082159,
+        "lon" : 141.3468,
+        "time" : "20161009T202159+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20161009T121848Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20161009T202159+0900",
+    "endTime" : "20161009T204408+0900",
+    "place" : {
+      "id" : 261061610,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.082159,
+        "lon" : 141.3468
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161009T202207+0900",
+      "endTime" : "20161009T202222+0900",
+      "duration" : 15.0,
+      "distance" : 10.0,
+      "steps" : 21,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20161009T121848Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20161009T204408+0900",
+    "endTime" : "20161009T204507+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20161009T204408+0900",
+      "endTime" : "20161009T204506+0900",
+      "duration" : 58.0,
+      "distance" : 378.0,
+      "trackPoints" : [ {
+        "lat" : 43.082159,
+        "lon" : 141.3468,
+        "time" : "20161009T204408+0900"
+      }, {
+        "lat" : 43.083742,
+        "lon" : 141.34608,
+        "time" : "20161009T204436+0900"
+      }, {
+        "lat" : 43.084088,
+        "lon" : 141.34598,
+        "time" : "20161009T204451+0900"
+      }, {
+        "lat" : 43.084886,
+        "lon" : 141.3453,
+        "time" : "20161009T204507+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20161009T121848Z"
+  } ],
+  "caloriesIdle" : 1601,
+  "lastUpdate" : "20161009T121848Z"
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "date" : "20170722",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 270.0,
+    "distance" : 271.0,
+    "steps" : 363,
+    "calories" : 15
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20170722T101226+0900",
+    "endTime" : "20170723T075249+0900",
+    "place" : {
+      "id" : 257240275,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.084886,
+        "lon" : 141.3453
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170722T135159+0900",
+      "endTime" : "20170722T135202+0900",
+      "duration" : 3.0,
+      "distance" : 2.0,
+      "steps" : 4,
+      "calories" : 0,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170722T161742+0900",
+      "endTime" : "20170722T162209+0900",
+      "duration" : 267.0,
+      "distance" : 269.0,
+      "steps" : 359,
+      "calories" : 15,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20170723T011243Z"
+  } ],
+  "caloriesIdle" : 1596,
+  "lastUpdate" : "20170723T011243Z"
+} ]

@@ -1,0 +1,96 @@
+[ {
+  "date" : "20170314",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 339.0,
+    "distance" : 268.0,
+    "steps" : 536,
+    "calories" : 15
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 1530.0,
+    "distance" : 4798.0
+  } ],
+  "segments" : [ {
+    "type" : "move",
+    "startTime" : "20170313T233442+0900",
+    "endTime" : "20170314T003110+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170314T000000+0900",
+      "endTime" : "20170314T000057+0900",
+      "duration" : 57.0,
+      "distance" : 48.0,
+      "steps" : 96,
+      "calories" : 3,
+      "trackPoints" : [ {
+        "lat" : 35.71879,
+        "lon" : 139.77175,
+        "time" : "20170314T000000+0900"
+      }, {
+        "lat" : 35.718647,
+        "lon" : 139.77147,
+        "time" : "20170314T000057+0900"
+      } ]
+    }, {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20170314T000057+0900",
+      "endTime" : "20170314T002627+0900",
+      "duration" : 1530.0,
+      "distance" : 4798.0,
+      "trackPoints" : [ {
+        "lat" : 35.718647,
+        "lon" : 139.77147,
+        "time" : "20170314T000057+0900"
+      }, {
+        "lat" : 35.71036,
+        "lon" : 139.75509,
+        "time" : "20170314T000824+0900"
+      }, {
+        "lat" : 35.716478,
+        "lon" : 139.72925,
+        "time" : "20170314T002628+0900"
+      } ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170314T002628+0900",
+      "endTime" : "20170314T003110+0900",
+      "duration" : 282.0,
+      "distance" : 220.0,
+      "steps" : 440,
+      "calories" : 12,
+      "trackPoints" : [ {
+        "lat" : 35.716478,
+        "lon" : 139.72925,
+        "time" : "20170314T002628+0900"
+      }, {
+        "lat" : 35.716588,
+        "lon" : 139.72878,
+        "time" : "20170314T002854+0900"
+      }, {
+        "lat" : 35.716649,
+        "lon" : 139.72868,
+        "time" : "20170314T002938+0900"
+      }, {
+        "lat" : 35.716711,
+        "lon" : 139.72871,
+        "time" : "20170314T003053+0900"
+      }, {
+        "lat" : 35.716727,
+        "lon" : 139.72894,
+        "time" : "20170314T003110+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20170313T164552Z"
+  } ],
+  "caloriesIdle" : 1596,
+  "lastUpdate" : "20170313T164552Z"
+} ]

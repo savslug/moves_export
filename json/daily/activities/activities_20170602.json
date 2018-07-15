@@ -1,0 +1,80 @@
+[ {
+  "date" : "20170602",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 800.0,
+    "distance" : 766.0,
+    "steps" : 1068,
+    "calories" : 42
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 807.0,
+    "distance" : 1089.0,
+    "calories" : 32
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 217.0,
+    "distance" : 406.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20170601T220448+0900",
+    "endTime" : "20170602T165051+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170602T164050+0900",
+      "endTime" : "20170602T165227+0900",
+      "duration" : 697.0,
+      "distance" : 697.0,
+      "steps" : 930,
+      "calories" : 39
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20170602T170000+0900",
+      "endTime" : "20170602T170143+0900",
+      "duration" : 103.0,
+      "distance" : 69.0,
+      "steps" : 138,
+      "calories" : 4
+    } ],
+    "lastUpdate" : "20170602T091228Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20170602T165051+0900",
+    "endTime" : "20170602T170418+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20170602T165051+0900",
+      "endTime" : "20170602T170418+0900",
+      "duration" : 807.0,
+      "distance" : 1089.0,
+      "calories" : 32
+    } ],
+    "lastUpdate" : "20170602T091228Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20170602T170419+0900",
+    "endTime" : "20170602T170756+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20170602T170419+0900",
+      "endTime" : "20170602T170756+0900",
+      "duration" : 217.0,
+      "distance" : 406.0
+    } ],
+    "lastUpdate" : "20170603T021737Z"
+  } ],
+  "caloriesIdle" : 1596,
+  "lastUpdate" : "20170603T021737Z"
+} ]

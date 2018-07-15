@@ -1,0 +1,46 @@
+[ {
+  "date" : "20141214",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 442.0,
+    "distance" : 353.0,
+    "steps" : 638,
+    "calories" : 21
+  } ],
+  "segments" : [ {
+    "type" : "move",
+    "startTime" : "20141214T100253+0900",
+    "endTime" : "20141214T100946+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20141214T100253+0900",
+      "endTime" : "20141214T100945+0900",
+      "duration" : 412.0,
+      "distance" : 338.0,
+      "steps" : 608,
+      "calories" : 20
+    } ],
+    "lastUpdate" : "20141214T034554Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20141214T100946+0900",
+    "endTime" : "20141215T133050+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20141214T214308+0900",
+      "endTime" : "20141214T214338+0900",
+      "duration" : 30.0,
+      "distance" : 15.0,
+      "steps" : 30,
+      "calories" : 1
+    } ],
+    "lastUpdate" : "20141215T074525Z"
+  } ],
+  "caloriesIdle" : 1711,
+  "lastUpdate" : "20141215T074525Z"
+} ]

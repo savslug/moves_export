@@ -1,0 +1,82 @@
+[ {
+  "date" : "20180518",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 656.0,
+    "distance" : 717.0,
+    "steps" : 982,
+    "calories" : 40
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 820.0,
+    "distance" : 2518.0,
+    "calories" : 65
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20180517T192131+0900",
+    "endTime" : "20180518T154333+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20180518T151656+0900",
+      "endTime" : "20180518T152701+0900",
+      "duration" : 605.0,
+      "distance" : 678.0,
+      "steps" : 904,
+      "calories" : 37
+    } ],
+    "lastUpdate" : "20180518T090956Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20180518T154333+0900",
+    "endTime" : "20180518T155046+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20180518T154333+0900",
+      "endTime" : "20180518T155046+0900",
+      "duration" : 433.0,
+      "distance" : 1415.0,
+      "calories" : 36
+    } ],
+    "lastUpdate" : "20180518T090956Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20180518T180948+0900",
+    "endTime" : "20180518T181615+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20180518T180948+0900",
+      "endTime" : "20180518T181615+0900",
+      "duration" : 387.0,
+      "distance" : 1103.0,
+      "calories" : 29
+    } ],
+    "lastUpdate" : "20180519T073729Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20180518T181615+0900",
+    "endTime" : "20180519T163647+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20180518T181615+0900",
+      "endTime" : "20180518T181706+0900",
+      "duration" : 51.0,
+      "distance" : 39.0,
+      "steps" : 78,
+      "calories" : 2
+    } ],
+    "lastUpdate" : "20180519T091929Z"
+  } ],
+  "caloriesIdle" : 1591,
+  "lastUpdate" : "20180519T091929Z"
+} ]

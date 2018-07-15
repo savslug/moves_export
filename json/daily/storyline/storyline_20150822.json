@@ -1,0 +1,96 @@
+[ {
+  "date" : "20150822",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 30.0,
+    "distance" : 31.0,
+    "steps" : 61,
+    "calories" : 2
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 530.0,
+    "distance" : 811.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20150821T225250+0900",
+    "endTime" : "20150822T023642+0900",
+    "place" : {
+      "id" : 196286694,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0768498671,
+        "lon" : 141.3465168617
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150822T023534+0900",
+      "endTime" : "20150822T023604+0900",
+      "duration" : 30.0,
+      "distance" : 31.0,
+      "steps" : 61,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20150823T023417Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150822T023642+0900",
+    "endTime" : "20150822T024531+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20150822T023642+0900",
+      "endTime" : "20150822T024532+0900",
+      "duration" : 530.0,
+      "distance" : 811.0,
+      "trackPoints" : [ {
+        "lat" : 43.0768498671,
+        "lon" : 141.3465168617,
+        "time" : "20150822T023642+0900"
+      }, {
+        "lat" : 43.0782314877,
+        "lon" : 141.3462683047,
+        "time" : "20150822T023914+0900"
+      }, {
+        "lat" : 43.0784277275,
+        "lon" : 141.346185351,
+        "time" : "20150822T023930+0900"
+      }, {
+        "lat" : 43.0809459947,
+        "lon" : 141.3454190099,
+        "time" : "20150822T024300+0900"
+      }, {
+        "lat" : 43.0811516447,
+        "lon" : 141.3454699978,
+        "time" : "20150822T024321+0900"
+      }, {
+        "lat" : 43.0831417521,
+        "lon" : 141.3451264084,
+        "time" : "20150822T024531+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20150823T023417Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20150822T024532+0900",
+    "endTime" : "20150822T025023+0900",
+    "place" : {
+      "id" : 147603140,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0831417521,
+        "lon" : 141.3451264084
+      }
+    },
+    "lastUpdate" : "20150823T023417Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20150823T023417Z"
+} ]

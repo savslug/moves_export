@@ -1,0 +1,51 @@
+[ {
+  "date" : "20180528",
+  "summary" : [ {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 209.0,
+    "distance" : 1186.0,
+    "calories" : 29
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 77.0,
+    "distance" : 57.0,
+    "steps" : 115,
+    "calories" : 3
+  } ],
+  "segments" : [ {
+    "type" : "move",
+    "startTime" : "20180528T132650+0900",
+    "endTime" : "20180528T133019+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20180528T132650+0900",
+      "endTime" : "20180528T133019+0900",
+      "duration" : 209.0,
+      "distance" : 1186.0,
+      "calories" : 29
+    } ],
+    "lastUpdate" : "20180528T075409Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20180528T133019+0900",
+    "endTime" : "20180528T165411+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20180528T133019+0900",
+      "endTime" : "20180528T133136+0900",
+      "duration" : 77.0,
+      "distance" : 57.0,
+      "steps" : 115,
+      "calories" : 3
+    } ],
+    "lastUpdate" : "20180528T075414Z"
+  } ],
+  "caloriesIdle" : 1591,
+  "lastUpdate" : "20180528T075414Z"
+} ]

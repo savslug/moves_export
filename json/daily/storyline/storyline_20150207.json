@@ -1,0 +1,148 @@
+[ {
+  "date" : "20150207",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 535.0,
+    "distance" : 445.0,
+    "steps" : 755,
+    "calories" : 26
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20150206T190333+0900",
+    "endTime" : "20150207T064149+0900",
+    "place" : {
+      "id" : 117345858,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 35.7193335133,
+        "lon" : 139.7273594442
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150207T023917+0900",
+      "endTime" : "20150207T024017+0900",
+      "duration" : 60.0,
+      "distance" : 56.0,
+      "steps" : 112,
+      "calories" : 3,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150207T051706+0900",
+      "endTime" : "20150207T051806+0900",
+      "duration" : 60.0,
+      "distance" : 30.0,
+      "steps" : 51,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20150206T235508Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150207T064149+0900",
+    "endTime" : "20150207T064813+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150207T064149+0900",
+      "endTime" : "20150207T064814+0900",
+      "duration" : 385.0,
+      "distance" : 339.0,
+      "steps" : 551,
+      "calories" : 20,
+      "trackPoints" : [ {
+        "lat" : 35.7193335133,
+        "lon" : 139.7273594442,
+        "time" : "20150207T064149+0900"
+      }, {
+        "lat" : 35.7190246359,
+        "lon" : 139.7276895225,
+        "time" : "20150207T064332+0900"
+      }, {
+        "lat" : 35.7189219408,
+        "lon" : 139.7275837729,
+        "time" : "20150207T064347+0900"
+      }, {
+        "lat" : 35.7188326758,
+        "lon" : 139.7276043983,
+        "time" : "20150207T064408+0900"
+      }, {
+        "lat" : 35.7185654871,
+        "lon" : 139.727690891,
+        "time" : "20150207T064443+0900"
+      }, {
+        "lat" : 35.7184165378,
+        "lon" : 139.7277323595,
+        "time" : "20150207T064459+0900"
+      }, {
+        "lat" : 35.7181942761,
+        "lon" : 139.7277826791,
+        "time" : "20150207T064522+0900"
+      }, {
+        "lat" : 35.7180407696,
+        "lon" : 139.7278546756,
+        "time" : "20150207T064545+0900"
+      }, {
+        "lat" : 35.7178179452,
+        "lon" : 139.7279987308,
+        "time" : "20150207T064608+0900"
+      }, {
+        "lat" : 35.7176698521,
+        "lon" : 139.72810065,
+        "time" : "20150207T064625+0900"
+      }, {
+        "lat" : 35.7173887028,
+        "lon" : 139.7282558889,
+        "time" : "20150207T064649+0900"
+      }, {
+        "lat" : 35.7171286388,
+        "lon" : 139.7284555086,
+        "time" : "20150207T064704+0900"
+      }, {
+        "lat" : 35.7169073837,
+        "lon" : 139.7285806442,
+        "time" : "20150207T064750+0900"
+      }, {
+        "lat" : 35.7168392789,
+        "lon" : 139.7283806079,
+        "time" : "20150207T064813+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20150206T235508Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20150207T064813+0900",
+    "endTime" : "20150209T013427+0900",
+    "place" : {
+      "id" : 98345442,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 35.7168392789,
+        "lon" : 139.7283806079
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150207T064937+0900",
+      "endTime" : "20150207T065007+0900",
+      "duration" : 30.0,
+      "distance" : 20.0,
+      "steps" : 41,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20150209T163947Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20150209T163947Z"
+} ]

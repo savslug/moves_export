@@ -1,0 +1,87 @@
+[ {
+  "date" : "20151102",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 303.0,
+    "distance" : 283.0,
+    "steps" : 452,
+    "calories" : 17
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20151031T184138+0900",
+    "endTime" : "20151102T024508+0900",
+    "place" : {
+      "id" : 152143834,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0846321394,
+        "lon" : 141.3451669726
+      }
+    },
+    "lastUpdate" : "20151102T093114Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20151102T162856+0900",
+    "endTime" : "20151102T182657+0900",
+    "place" : {
+      "id" : 141367537,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0794932905,
+        "lon" : 141.3403872229
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20151102T162912+0900",
+      "endTime" : "20151102T163012+0900",
+      "duration" : 60.0,
+      "distance" : 46.0,
+      "steps" : 92,
+      "calories" : 3,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20151102T175111+0900",
+      "endTime" : "20151102T175344+0900",
+      "duration" : 153.0,
+      "distance" : 171.0,
+      "steps" : 228,
+      "calories" : 10,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20151102T180215+0900",
+      "endTime" : "20151102T180345+0900",
+      "duration" : 90.0,
+      "distance" : 66.0,
+      "steps" : 132,
+      "calories" : 4,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20151102T120450Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20151102T182657+0900",
+    "endTime" : "20151104T102600+0900",
+    "place" : {
+      "id" : 152143834,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0846321394,
+        "lon" : 141.3451669726
+      }
+    },
+    "lastUpdate" : "20151104T025911Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20151104T025911Z"
+} ]

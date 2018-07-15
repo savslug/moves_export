@@ -1,0 +1,151 @@
+[ {
+  "date" : "20171002",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 946.0,
+    "distance" : 906.0,
+    "steps" : 1282,
+    "calories" : 50
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 349.0,
+    "distance" : 1515.0,
+    "calories" : 38
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 150.0,
+    "distance" : 641.0
+  } ],
+  "segments" : [ {
+    "type" : "off",
+    "startTime" : "20171001T142401+0900",
+    "endTime" : "20171002T125317+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T124909+0900",
+      "endTime" : "20171002T124924+0900",
+      "duration" : 15.0,
+      "distance" : 10.0,
+      "steps" : 20,
+      "calories" : 1
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T124946+0900",
+      "endTime" : "20171002T125046+0900",
+      "duration" : 60.0,
+      "distance" : 30.0,
+      "steps" : 35,
+      "calories" : 2
+    } ],
+    "lastUpdate" : "20171002T052403Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171002T125317+0900",
+    "endTime" : "20171002T125634+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20171002T125317+0900",
+      "endTime" : "20171002T125634+0900",
+      "duration" : 197.0,
+      "distance" : 873.0,
+      "calories" : 22
+    } ],
+    "lastUpdate" : "20171002T052403Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171002T125634+0900",
+    "endTime" : "20171002T181051+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T125634+0900",
+      "endTime" : "20171002T125810+0900",
+      "duration" : 96.0,
+      "distance" : 75.0,
+      "steps" : 150,
+      "calories" : 4
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T142739+0900",
+      "endTime" : "20171002T142956+0900",
+      "duration" : 137.0,
+      "distance" : 155.0,
+      "steps" : 207,
+      "calories" : 9
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T181040+0900",
+      "endTime" : "20171002T181402+0900",
+      "duration" : 202.0,
+      "distance" : 202.0,
+      "steps" : 269,
+      "calories" : 11
+    } ],
+    "lastUpdate" : "20171002T100549Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171002T181051+0900",
+    "endTime" : "20171002T181756+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T181051+0900",
+      "endTime" : "20171002T181253+0900",
+      "duration" : 122.0,
+      "distance" : 120.0,
+      "steps" : 182,
+      "calories" : 7
+    }, {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20171002T181254+0900",
+      "endTime" : "20171002T181524+0900",
+      "duration" : 150.0,
+      "distance" : 641.0
+    }, {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20171002T181524+0900",
+      "endTime" : "20171002T181756+0900",
+      "duration" : 152.0,
+      "distance" : 642.0,
+      "calories" : 16
+    } ],
+    "lastUpdate" : "20171002T100549Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171002T181756+0900",
+    "endTime" : "20171003T101928+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171002T181756+0900",
+      "endTime" : "20171002T182310+0900",
+      "duration" : 314.0,
+      "distance" : 314.0,
+      "steps" : 419,
+      "calories" : 17
+    } ],
+    "lastUpdate" : "20171003T013308Z"
+  } ],
+  "caloriesIdle" : 1596,
+  "lastUpdate" : "20171003T013308Z"
+} ]

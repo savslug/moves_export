@@ -1,0 +1,109 @@
+[ {
+  "date" : "20161222",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 1048.0,
+    "distance" : 1356.0,
+    "steps" : 1655,
+    "calories" : 75
+  }, {
+    "activity" : "running",
+    "group" : "running",
+    "duration" : 365.0,
+    "distance" : 746.0,
+    "steps" : 716,
+    "calories" : 51
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20161221T220157+0900",
+    "endTime" : "20161222T083253+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T052522+0900",
+      "endTime" : "20161222T052558+0900",
+      "duration" : 36.0,
+      "distance" : 18.0,
+      "steps" : 0,
+      "calories" : 1
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T082209+0900",
+      "endTime" : "20161222T082310+0900",
+      "duration" : 61.0,
+      "distance" : 37.0,
+      "steps" : 74,
+      "calories" : 2
+    } ],
+    "lastUpdate" : "20161222T010636Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20161222T083253+0900",
+    "endTime" : "20161222T084629+0900",
+    "activities" : [ {
+      "activity" : "running",
+      "group" : "running",
+      "manual" : false,
+      "startTime" : "20161222T083253+0900",
+      "endTime" : "20161222T083858+0900",
+      "duration" : 365.0,
+      "distance" : 746.0,
+      "steps" : 716,
+      "calories" : 51
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T083858+0900",
+      "endTime" : "20161222T084629+0900",
+      "duration" : 451.0,
+      "distance" : 740.0,
+      "steps" : 787,
+      "calories" : 41
+    } ],
+    "lastUpdate" : "20161222T010636Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20161222T084629+0900",
+    "endTime" : "20161222T144108+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T101646+0900",
+      "endTime" : "20161222T101808+0900",
+      "duration" : 82.0,
+      "distance" : 67.0,
+      "steps" : 134,
+      "calories" : 4
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T121925+0900",
+      "endTime" : "20161222T122207+0900",
+      "duration" : 162.0,
+      "distance" : 170.0,
+      "steps" : 227,
+      "calories" : 9
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20161222T143517+0900",
+      "endTime" : "20161222T143933+0900",
+      "duration" : 256.0,
+      "distance" : 324.0,
+      "steps" : 433,
+      "calories" : 18
+    } ],
+    "lastUpdate" : "20161222T054110Z"
+  } ],
+  "caloriesIdle" : 1601,
+  "lastUpdate" : "20161222T054110Z"
+} ]

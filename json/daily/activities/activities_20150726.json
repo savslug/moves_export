@@ -1,0 +1,76 @@
+[ {
+  "date" : "20150726",
+  "summary" : [ {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 2013.0,
+    "distance" : 7999.0,
+    "calories" : 214
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 644.0,
+    "distance" : 529.0,
+    "steps" : 714,
+    "calories" : 31
+  } ],
+  "segments" : [ {
+    "type" : "move",
+    "startTime" : "20150726T152119+0900",
+    "endTime" : "20150726T154032+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20150726T152119+0900",
+      "endTime" : "20150726T153638+0900",
+      "duration" : 919.0,
+      "distance" : 3193.0,
+      "calories" : 87
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150726T153639+0900",
+      "endTime" : "20150726T154032+0900",
+      "duration" : 233.0,
+      "distance" : 248.0,
+      "steps" : 326,
+      "calories" : 15
+    } ],
+    "lastUpdate" : "20150726T092818Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20150726T154032+0900",
+    "endTime" : "20150726T200215+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150726T195455+0900",
+      "endTime" : "20150726T200146+0900",
+      "duration" : 411.0,
+      "distance" : 281.0,
+      "steps" : 388,
+      "calories" : 17
+    } ],
+    "lastUpdate" : "20150726T140505Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150726T200215+0900",
+    "endTime" : "20150726T202029+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20150726T200215+0900",
+      "endTime" : "20150726T202029+0900",
+      "duration" : 1094.0,
+      "distance" : 4806.0,
+      "calories" : 128
+    } ],
+    "lastUpdate" : "20150726T140505Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20150727T071335Z"
+} ]

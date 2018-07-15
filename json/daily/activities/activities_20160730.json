@@ -1,0 +1,79 @@
+[ {
+  "date" : "20160730",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 802.0,
+    "distance" : 801.0,
+    "steps" : 1073,
+    "calories" : 45
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 176.0,
+    "distance" : 674.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20160729T213548+0900",
+    "endTime" : "20160730T202313+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160730T202131+0900",
+      "endTime" : "20160730T203441+0900",
+      "duration" : 790.0,
+      "distance" : 793.0,
+      "steps" : 1057,
+      "calories" : 44
+    } ],
+    "lastUpdate" : "20160730T123550Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20160730T202313+0900",
+    "endTime" : "20160730T202436+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20160730T202313+0900",
+      "endTime" : "20160730T202436+0900",
+      "duration" : 83.0,
+      "distance" : 342.0
+    } ],
+    "lastUpdate" : "20160730T123550Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20160730T202436+0900",
+    "endTime" : "20160730T210139+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20160730T210110+0900",
+      "endTime" : "20160730T210122+0900",
+      "duration" : 12.0,
+      "distance" : 8.0,
+      "steps" : 16,
+      "calories" : 0
+    } ],
+    "lastUpdate" : "20160730T123550Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20160730T210139+0900",
+    "endTime" : "20160730T210312+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20160730T210139+0900",
+      "endTime" : "20160730T210312+0900",
+      "duration" : 93.0,
+      "distance" : 332.0
+    } ],
+    "lastUpdate" : "20160730T123550Z"
+  } ],
+  "caloriesIdle" : 1601,
+  "lastUpdate" : "20160730T123550Z"
+} ]

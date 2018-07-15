@@ -1,0 +1,110 @@
+[ {
+  "date" : "20150807",
+  "summary" : [ {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 861.0,
+    "distance" : 1627.0
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 348.0,
+    "distance" : 1421.0,
+    "calories" : 38
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 180.0,
+    "distance" : 148.0,
+    "steps" : 296,
+    "calories" : 9
+  } ],
+  "segments" : [ {
+    "type" : "move",
+    "startTime" : "20150807T154336+0900",
+    "endTime" : "20150807T154650+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20150807T154336+0900",
+      "endTime" : "20150807T154651+0900",
+      "duration" : 195.0,
+      "distance" : 439.0
+    } ],
+    "lastUpdate" : "20150807T092417Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150807T164445+0900",
+    "endTime" : "20150807T165558+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20150807T164445+0900",
+      "endTime" : "20150807T165033+0900",
+      "duration" : 348.0,
+      "distance" : 1421.0,
+      "calories" : 38
+    } ],
+    "lastUpdate" : "20150807T105532Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20150807T182415+0900",
+    "endTime" : "20150807T215805+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150807T182428+0900",
+      "endTime" : "20150807T182528+0900",
+      "duration" : 60.0,
+      "distance" : 51.0,
+      "steps" : 102,
+      "calories" : 3
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150807T195814+0900",
+      "endTime" : "20150807T195944+0900",
+      "duration" : 90.0,
+      "distance" : 82.0,
+      "steps" : 163,
+      "calories" : 5
+    } ],
+    "lastUpdate" : "20150807T145319Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150807T215805+0900",
+    "endTime" : "20150807T220911+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20150807T215805+0900",
+      "endTime" : "20150807T220911+0900",
+      "duration" : 666.0,
+      "distance" : 1188.0
+    } ],
+    "lastUpdate" : "20150807T145319Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20150807T220911+0900",
+    "endTime" : "20150808T224112+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150807T235208+0900",
+      "endTime" : "20150807T235238+0900",
+      "duration" : 30.0,
+      "distance" : 15.0,
+      "steps" : 31,
+      "calories" : 1
+    } ],
+    "lastUpdate" : "20150809T141339Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20150809T141339Z"
+} ]

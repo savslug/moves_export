@@ -1,0 +1,48 @@
+[ {
+  "date" : "20160603",
+  "summary" : [ {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 194.0,
+    "distance" : 407.0
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20160602T181532+0900",
+    "endTime" : "20160603T051157+0900",
+    "place" : {
+      "id" : 175650310,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 43.0848409544,
+        "lon" : 141.3444336513
+      }
+    },
+    "lastUpdate" : "20160602T223447Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20160603T051157+0900",
+    "endTime" : "20160603T051511+0900",
+    "activities" : [ {
+      "activity" : "transport",
+      "group" : "transport",
+      "manual" : false,
+      "startTime" : "20160603T051157+0900",
+      "endTime" : "20160603T051511+0900",
+      "duration" : 194.0,
+      "distance" : 407.0,
+      "trackPoints" : [ {
+        "lat" : 43.084841,
+        "lon" : 141.34443,
+        "time" : "20160603T051157+0900"
+      }, {
+        "lat" : 43.082159,
+        "lon" : 141.3468,
+        "time" : "20160603T051511+0900"
+      } ]
+    } ],
+    "lastUpdate" : "20160602T223447Z"
+  } ],
+  "caloriesIdle" : 1601,
+  "lastUpdate" : "20160602T223447Z"
+} ]

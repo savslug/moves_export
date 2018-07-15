@@ -1,0 +1,77 @@
+[ {
+  "date" : "20150625",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 467.0,
+    "distance" : 668.0,
+    "steps" : 703,
+    "calories" : 40
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 233.0,
+    "distance" : 448.0,
+    "calories" : 13
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20150625T143503+0900",
+    "endTime" : "20150625T171553+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150625T143733+0900",
+      "endTime" : "20150625T144033+0900",
+      "duration" : 180.0,
+      "distance" : 221.0,
+      "steps" : 295,
+      "calories" : 13
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150625T165253+0900",
+      "endTime" : "20150625T165323+0900",
+      "duration" : 30.0,
+      "distance" : 30.0,
+      "steps" : 61,
+      "calories" : 2
+    } ],
+    "lastUpdate" : "20150626T034702Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150625T171553+0900",
+    "endTime" : "20150625T172009+0900",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20150625T171553+0900",
+      "endTime" : "20150625T172010+0900",
+      "duration" : 257.0,
+      "distance" : 417.0,
+      "steps" : 347,
+      "calories" : 25
+    } ],
+    "lastUpdate" : "20150626T034702Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20150625T172306+0900",
+    "endTime" : "20150625T172658+0900",
+    "activities" : [ {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20150625T172306+0900",
+      "endTime" : "20150625T172659+0900",
+      "duration" : 233.0,
+      "distance" : 448.0,
+      "calories" : 13
+    } ],
+    "lastUpdate" : "20150626T034702Z"
+  } ],
+  "caloriesIdle" : 1706,
+  "lastUpdate" : "20150626T034702Z"
+} ]
